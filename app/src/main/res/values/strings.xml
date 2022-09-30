@@ -2,7 +2,7 @@
     <string name="app_name">FirstLesson</string>
     <string name="counter_label_text">COUNTER</string>
     <string name="counter_default_text">0</string>
-    <string name="increment_button_text">INCREMENT</string>
-    <string name="decrement_button_text">DECREMENT</string>
+    <string name="increment_button_text">+</string>
+    <string name="decrement_button_text">-</string>
     <string name="calculator_button_text">CALCULATOR</string>
 </resources>

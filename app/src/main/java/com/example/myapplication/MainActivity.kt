@@ -1,5 +1,6 @@
 package com.example.myapplication
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
@@ -24,8 +25,9 @@ class MainActivity : AppCompatActivity() {
         binding.decrementButton.setOnClickListener {
             binding.counter.text = (--counter).toString()
         }
-        binding.counterStep.addTextChangedListener {
-            Toast.makeText(applicationContext, "ChangeListener", Toast.LENGTH_SHORT).show()
+        binding.openCalculatorButton.setOnClickListener {
+            val intent = Intent(this@MainActivity, CalculatorActivity::class.java)
+            startActivity(intent)
         }
     }
 }

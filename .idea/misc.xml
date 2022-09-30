@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Uczen/appi26/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.237" />
+        <entry key="..\:/Users/Uczen/appi26/app/src/main/res/drawable/ic_launcher_background.xml" value="0.237" />
+        <entry key="..\:/Users/Uczen/appi26/app/src/main/res/layout/activity_main.xml" value="0.2318840579710145" />
+        <entry key="..\:/Users/Uczen/appi26/app/src/main/res/layout/calculator.xml" value="0.25" />
         <entry key="..\:/Users/uczen/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.11043566362715299" />
       </map>
     </option>
